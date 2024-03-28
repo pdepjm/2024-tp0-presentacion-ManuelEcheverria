@@ -1,6 +1,7 @@
 ## Mi presentación
 # Quién soy
 Me llamo Manuel Echeverría, soy de Bragado, tengo 20 años y estoy cursando el segundo año de Sistemas en UTN.
+Mi legajo: 2035844
 
 Me egresé de Bachiller Agrario (No teniamos mucho mas en Bragado) pero desde muy chico tuve interés por la computación más que nada gracias a mi papá que trabaja como técnico en reparación y desde ahi me siento muy cómodo con la tecnología en general
 
